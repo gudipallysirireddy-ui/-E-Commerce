@@ -84,13 +84,7 @@ npm start
 
 ![Home](screenshots/home.png)
 
-### 🛒 Cart Page
 
-![Cart](screenshots/cart.png)
-
-### 💳 Checkout Page
-
-![Checkout](screenshots/checkout.png)
 
 ---
 
